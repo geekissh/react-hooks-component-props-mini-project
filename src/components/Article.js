@@ -1,4 +1,3 @@
-// Article.js
 import React from 'react';
 
 const Article = ({ title, date, preview, minutes }) => {
